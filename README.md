@@ -3,9 +3,10 @@
 ### Tecnologias utilizadas
 
 - Java 8
-- Maven
 - SpringBoot
 - H2 Database
+- Maven
+
 
 ### Ferramentas
 
@@ -16,22 +17,20 @@
 - Docker (virtualização de ambiente)
 - Git (Controle de versão)
 
-### Testes serão feitos
+### Testes
 
-Os testes estão disponiveis em
 
 ```
 src > test > java > DesafioApplicationTests
 ```
 
-### Como executar
+### Executar
 
-o projeto conta com uma classe "DesafioApplication dentro do módulo de API para startar a aplicação através do SpringInitializer.
 
 ```
 desafio-digito-unico-api > com.desafio.digitounico > DesafioApplication > Run as SpringBoot
 ```
-ou por linha de comando
+ou
 
 ```bash
 java -jar desafio-digito-unico.jar
