@@ -1,29 +1,5 @@
 # Desafio DÍGITO ÚNICO
 
-## Informações sobre o projeto
-
-Uma API que recebe um número inteiro e calcula um dígito único para esse número. A função que calcula o dígito único recebe dois parâmetros:
-
-**n**: número inteiro
-
-**k**: número inteiro que representa o número de vezes que *n* será repetido
-
-*Exemplo:*
-
-```
-n = 123, k = 2
-digitoUnico(n, k) = 123123
-somarDigitos(123123) = 1 + 2 + 3 + 1 + 2 + 3 = 12
-```
-
-Se o dígito encontrado ainda não for único, a operação de soma se repete
-
-```
-somarDigitos(12) = 1 + 2 = 3
-```
-
-O projeto conta também com endpoints para CRUD de Usuário e Dígitos Unicos.
-
 ### Tecnologias utilizadas
 
 - Java 8
