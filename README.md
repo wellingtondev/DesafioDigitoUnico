@@ -36,9 +36,3 @@ ou por linha de comando
 ```bash
 java -jar desafio-digito-unico.jar
 ```
-
-### Paths e endpoints
-
-Path original da API:  [Desafio Único API](http://localhost:8080/api)
-
-Endpoints: [Swagger UI](http://localhost:8080/api/swagger-ui.html)
